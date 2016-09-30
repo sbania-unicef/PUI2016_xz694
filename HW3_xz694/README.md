@@ -10,3 +10,5 @@ For each distribution, also plot the distribution of the sample means, showing t
 The 5 distributions are generated with the module of numpy.random. To ensure that the results generated each time remain the same, a seed of 0 is also given.
 
 (The extra credit of fitting a Gaussian to the distribution of the sample means is not done here yet...)
+
+##Assignment 3:
