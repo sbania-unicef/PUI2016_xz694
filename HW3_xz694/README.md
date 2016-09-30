@@ -12,3 +12,10 @@ The 5 distributions are generated with the module of numpy.random. To ensure tha
 (The extra credit of fitting a Gaussian to the distribution of the sample means is not done here yet...)
 
 ##Assignment 3:
+Complete a Z-test for new and old bus commute time comparison.
+Tasks performed:
+1. Formulate measurable null and alternate hypotheses with a given question, both in words and in equations.
+2. Select a statistic test, with a significance level specified in advance.
+3. Gather variables needed to perform the chosen statistic test, in this case the mean of the new travel times measured (read data from a text file into an array using the np.loadtxt module, then use the np.mean module to calculate the mean).
+4. Calculate the z-score with the relevant formula. Then compare the result to chosen threshold.
+5. If result is lower than the threshold, then Null hypothesis is rejected, and the alternate hypothesis stands true.
