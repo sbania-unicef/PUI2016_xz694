@@ -11,6 +11,8 @@ The 5 distributions are generated with the module of numpy.random. To ensure tha
 
 (The extra credit of fitting a Gaussian to the distribution of the sample means is not done here yet...)
 
+##Assignment 2:
+
 ##Assignment 3:
 Complete a Z-test for new and old bus commute time comparison.
 
