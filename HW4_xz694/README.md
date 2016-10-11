@@ -1,5 +1,6 @@
 ### Assignment 1: Peer project review
 Did a peer review for the Citibike proposal by esg336.
+Sent a pull request.
 
 ### Assignment 2: Understand when to use a specific statistical test
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
