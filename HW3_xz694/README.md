@@ -1,5 +1,5 @@
 
-##HW3, Assignment 1:
+## HW3, Assignment 1:
 Visually demonstrate the Central Limit Theorem with 5 different distributions (Chi-squared, Gaussian, Poisson, Binomial, and Logistic).
 
 For each distribution, use 100 samples, with sample sizes ranging from 20 to 2000.
