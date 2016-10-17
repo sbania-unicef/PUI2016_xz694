@@ -6,3 +6,5 @@ Write a Python script to track the locations of all buses of a certain bus line 
 ### Assignment 2:
 Write another Python script to show the next-stop information for all buses of a bus line in real time. Also using an API key to get data from MTA, and the script is executed via command lines while passing 3 arguments. Spent way too much time trying to figure out a numpy method and creating the right CSV file...
 
+### Assignment 3:
+
