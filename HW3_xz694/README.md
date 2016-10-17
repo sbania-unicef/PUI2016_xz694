@@ -12,6 +12,7 @@ The 5 distributions are generated with the module of numpy.random. To ensure tha
 (The extra credit of fitting a Gaussian to the distribution of the sample means is not done here yet...)
 
 ##Assignment 2:
+Obtain Citi Bike data from CUSP data facility. Save it to personal directory on Compute for future access. Think of a research question based on the data (relating to either a proportion or a mean problem). Formulate hypotheses, express them in formulas. Specify a confidence level. Data are read and processed with Pandas. The plotting of distribution of the chosen data, or the different trip durations, however, is not yet done. I haven't figured out how to create a histogram for just one column of data within a dataframe after various experiments...I usually just got one bar only. 
 
 ##Assignment 3:
 Complete a Z-test for new and old bus commute time comparison.
