@@ -1,2 +1,2 @@
 ### HW6, Assignment 1 (Working):
-Obtaining CSV file from external websites. Read in the data with Pandas. Drop the redundant columns. Turn the columns of interest into float types so that they can be processed numerically. Merge two different dataframes. Plot the data with proper scales, using first normal plots then log plots.
+Obtaining CSV file from external websites. Read in the data with Pandas. Drop the redundant columns. Turn the columns of interest into float types so that they can be processed numerically. Merge two different dataframes. Plot the data with proper scales, using first normal plots then log plots. Switching independent variable and dependent variable to see different graphs. Fitting a line to the different graphs.
